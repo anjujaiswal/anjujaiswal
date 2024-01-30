@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anjujaiswal currently pursuing my B.Tech from Madan Mohan Malviya University of Technology in Information Technology Branch.
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning ML & AI
-- 💞️ I’m looking to collaborate on intresting machine learning projects.
+- 👀 I’m interested in Web development.
+- 🌱 I’m currently working on the MERN tech stack.
+- 💞️ I’m looking to collaborate on interesting web development projects.
 - 📫 How to reach me? via eamail - jaiswalanju2019@gmail.com
 
 <!---
